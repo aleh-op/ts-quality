@@ -3,7 +3,7 @@
 Shared TypeScript/web quality gate for the fleet — the canonical Biome config,
 the strict tsconfig baseline, a two-mode gate, the supply-chain posture check,
 and the agent-facing guide. Consumed by
-[provision](https://github.com/alehatsman/provision).
+[provision](https://github.com/aleh-op/provision).
 
 - [docs/TS.md](docs/TS.md) — how to write it. Rules, gate markers, the 2026 trap list, a review checklist.
 - [docs/STACK.md](docs/STACK.md) — what to reach for. De-facto picks with versions and deviation triggers.

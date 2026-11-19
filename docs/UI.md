@@ -18,7 +18,7 @@ Companions: [TS.md](TS.md) — the code. [STACK.md](STACK.md) — what to reach 
    them, and a hashed or generated name breaks that. A task that seems to need
    one doesn't — ask before adding a dependency.
 2. **No third-party component library, no state-management library.**
-   [kai-ui](https://github.com/alehatsman/kai-ui) is the fleet's vocabulary:
+   [kai-ui](https://github.com/aleh-op/kai-ui) is the fleet's vocabulary:
    tokens, base stylesheet, BEM blocks, thin React and Svelte bindings over
    them. In-repo `ui/` holds only the primitives kai-ui does not cover (§2).
    A store is a plain module until it isn't.
